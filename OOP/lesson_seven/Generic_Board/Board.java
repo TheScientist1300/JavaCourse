@@ -1,4 +1,3 @@
-package OOP.lesson_seven;
 
 public class Board<T>{
 
